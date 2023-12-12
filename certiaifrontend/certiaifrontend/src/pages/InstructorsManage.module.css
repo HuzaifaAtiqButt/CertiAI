@@ -1,0 +1,699 @@
+.iconFeatherSearch,
+.vectorIcon {
+  position: absolute;
+  height: 5.37%;
+  width: 50.87%;
+  top: 4.3%;
+  right: 28.94%;
+  bottom: 90.33%;
+  left: 20.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconFeatherSearch {
+  height: 2.42%;
+  width: 1.56%;
+  top: 5.77%;
+  right: 76.48%;
+  bottom: 91.81%;
+  left: 21.96%;
+}
+.searchDashboard {
+  position: absolute;
+  top: 5.82%;
+  left: 25.12%;
+  font-size: var(--paragraph-h1-reg-size);
+  color: var(--color-lightsteelblue);
+}
+.groupIcon {
+  position: absolute;
+  height: 8.42%;
+  width: 5.44%;
+  top: 3.13%;
+  right: 22.51%;
+  bottom: 88.45%;
+  left: 72.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.pooranMalYadav,
+.seniorAdmin {
+  position: absolute;
+  top: 9.09%;
+  left: 58.02%;
+}
+.seniorAdmin {
+  top: 33.73%;
+  font-weight: 300;
+}
+.clipPathGroup,
+.groupChild {
+  position: absolute;
+  height: 100%;
+  width: 47.33%;
+  top: 0;
+  right: 47.33%;
+  bottom: 0;
+  left: 5.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupChild {
+  height: 56.36%;
+  top: 5.45%;
+  right: 52.67%;
+  bottom: 38.18%;
+  left: 0;
+  object-fit: cover;
+}
+.pooranMalYadavParent {
+  position: absolute;
+  height: 9.85%;
+  width: 7.58%;
+  top: 3.76%;
+  right: 7.06%;
+  bottom: 86.39%;
+  left: 85.36%;
+  font-size: var(--paragraph-h1-reg-size);
+  color: var(--gray-black);
+}
+.frameChild,
+.instructorsManageChild {
+  position: absolute;
+  height: 5.55%;
+  width: 3.59%;
+  top: 4.3%;
+  right: 16.84%;
+  bottom: 90.15%;
+  left: 79.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameChild {
+  height: 5.19%;
+  width: 87.19%;
+  top: 27.66%;
+  right: 9.38%;
+  bottom: 67.14%;
+  left: 3.44%;
+  border-radius: var(--br-3xs);
+}
+.students,
+.vectorIcon1 {
+  position: absolute;
+  top: 0;
+  left: 35.44%;
+}
+.vectorIcon1 {
+  height: 79.66%;
+  width: 15.19%;
+  top: 3.45%;
+  right: 84.81%;
+  bottom: 16.9%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.testtakers {
+  position: absolute;
+  top: 265px;
+  left: 37px;
+  width: 158px;
+  height: 29px;
+  cursor: pointer;
+}
+.team {
+  position: absolute;
+  top: 0;
+  left: 47.46%;
+}
+.teacherSvgrepoCom1Icon {
+  position: absolute;
+  height: 74.48%;
+  width: 20.34%;
+  top: 10.34%;
+  right: 79.66%;
+  bottom: 15.17%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instructors {
+  position: absolute;
+  top: 322px;
+  left: 37px;
+  width: 118px;
+  height: 29px;
+  cursor: pointer;
+  color: var(--color-firebrick-500);
+}
+.vectorIcon2 {
+  position: absolute;
+  height: 75.17%;
+  width: 13.11%;
+  top: 17.24%;
+  right: 86.89%;
+  bottom: 7.59%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dashboard {
+  position: absolute;
+  top: 0;
+  left: 30.6%;
+  font-weight: 600;
+}
+.academics,
+.vectorGroup {
+  position: absolute;
+  cursor: pointer;
+}
+.vectorGroup {
+  top: 194px;
+  left: 37px;
+  width: 183px;
+  height: 29px;
+}
+.academics {
+  top: 0;
+  left: 30.94%;
+}
+.iconMetroBooks {
+  position: absolute;
+  height: 85.86%;
+  width: 13.76%;
+  top: 10.34%;
+  right: 86.24%;
+  bottom: 3.79%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.testEnvironment {
+  position: absolute;
+  top: 379px;
+  left: 37px;
+  width: 181px;
+  height: 29px;
+}
+.calendar {
+  position: absolute;
+  top: 0;
+  left: 35.22%;
+  cursor: pointer;
+}
+.groupIcon1 {
+  position: absolute;
+  height: 74.48%;
+  width: 15.09%;
+  top: 13.79%;
+  right: 84.91%;
+  bottom: 11.72%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameItem,
+.payments {
+  position: absolute;
+  top: 437px;
+  left: 37px;
+  width: 159px;
+  height: 29px;
+}
+.frameItem {
+  top: 28px;
+  left: 0;
+  width: 326px;
+  height: 77px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.vectorParent,
+.welcomePooran {
+  position: absolute;
+  font-size: var(--body-h1-bold-size);
+}
+.vectorParent {
+  top: 0;
+  left: 0;
+  background-color: var(--gray-white);
+  width: 320px;
+  height: 1117px;
+  overflow: hidden;
+  color: var(--gray-black);
+}
+.welcomePooran {
+  top: 17.99%;
+  left: 20.89%;
+  font-weight: 500;
+  color: var(--color-dimgray-300);
+}
+.groupItem,
+.vectorIcon3 {
+  position: absolute;
+  height: 100%;
+  width: 99.98%;
+  top: 0;
+  right: 0.02%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon3 {
+  height: 100.59%;
+  width: 100.22%;
+  top: -0.3%;
+  right: -0.12%;
+  bottom: -0.3%;
+  left: -0.1%;
+}
+.activeStudents {
+  position: absolute;
+  top: 15.32%;
+  left: 3.67%;
+}
+.div,
+.div1 {
+  position: absolute;
+  color: var(--color-lightseagreen-200);
+}
+.div {
+  top: 50.26%;
+  left: 3.67%;
+  font-size: 29.73px;
+}
+.div1 {
+  top: 56.95%;
+  left: 70.48%;
+}
+.fromPreviousYear {
+  position: absolute;
+  top: 82.97%;
+  left: 62.9%;
+  font-size: 13.59px;
+}
+.vectorContainer {
+  position: absolute;
+  height: 99.26%;
+  width: 99.76%;
+  top: 0;
+  right: 0;
+  bottom: 0.74%;
+  left: 0.24%;
+}
+.groupInner,
+.groupParent {
+  position: absolute;
+  height: 12.13%;
+  width: 23.7%;
+  top: 24.44%;
+  right: 55.64%;
+  bottom: 63.43%;
+  left: 20.66%;
+}
+.groupInner {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dropouts {
+  position: absolute;
+  top: 15.57%;
+  left: 3.81%;
+}
+.div2,
+.div3 {
+  position: absolute;
+  color: var(--color-crimson);
+}
+.div2 {
+  top: 50.26%;
+  left: 8.45%;
+  font-size: 29.73px;
+}
+.div3 {
+  top: 56.9%;
+  left: 71.45%;
+}
+.fromPreviousYear1 {
+  position: absolute;
+  top: 82.73%;
+  left: 64.37%;
+  font-size: 13.59px;
+}
+.groupContainer {
+  position: absolute;
+  height: 12.13%;
+  width: 23.7%;
+  top: 24.44%;
+  right: 29.02%;
+  bottom: 63.43%;
+  left: 47.28%;
+}
+.totalStudents {
+  top: 15.57%;
+  left: 3.86%;
+}
+.div4,
+.div5,
+.totalStudents {
+  position: absolute;
+}
+.div4 {
+  top: 50.26%;
+  left: 3.86%;
+  font-size: 29.73px;
+  color: var(--color-dimgray-300);
+}
+.div5 {
+  top: 56.9%;
+  left: 69.79%;
+  color: var(--color-lightseagreen-200);
+}
+.fromPreviousYear2 {
+  position: absolute;
+  top: 81.99%;
+  left: 62.95%;
+  font-size: 13.59px;
+}
+.groupDiv {
+  position: absolute;
+  height: 12.13%;
+  width: 23.7%;
+  top: 24.53%;
+  right: 2.4%;
+  bottom: 63.34%;
+  left: 73.9%;
+}
+.vectorIcon4 {
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.labelText {
+  position: relative;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  font-weight: 500;
+}
+.button,
+.stateLayer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.stateLayer {
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-5xl);
+  gap: var(--gap-5xs);
+  cursor: pointer;
+}
+.button {
+  position: absolute;
+  top: 177px;
+  left: 1514px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-firebrick-500);
+  width: 172px;
+  height: 56px;
+  overflow: hidden;
+  flex-direction: column;
+  text-align: center;
+  font-size: var(--paragraph-h2-reg-size);
+  color: var(--gray-white);
+}
+.instructorsManageItem {
+  position: absolute;
+  top: 451px;
+  left: 361px;
+  border-radius: var(--br-3xs);
+  background-color: var(--gray-white);
+  width: 406px;
+  height: 606px;
+}
+.addDefaultersChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-firebrick-400);
+  cursor: pointer;
+}
+.icon {
+  position: absolute;
+  height: 40%;
+  width: 40%;
+  top: 30%;
+  right: 30%;
+  bottom: 30%;
+  left: 30%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.addDefaulters {
+  position: absolute;
+  top: 469px;
+  left: 706px;
+  width: 40px;
+  height: 40px;
+}
+.complaints {
+  position: absolute;
+  width: 12.5%;
+  top: 43.06%;
+  left: 21.99%;
+  font-size: var(--font-size-3xl-8);
+  font-weight: 600;
+  color: var(--color-dimgray-300);
+  display: inline-block;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--gray-white);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 366px;
+  height: 88px;
+}
+.alex,
+.viewDetails {
+  position: absolute;
+  left: 89px;
+}
+.viewDetails {
+  top: 47px;
+  cursor: pointer;
+}
+.alex {
+  top: 9px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--gray-black);
+}
+.rectangleIcon1 {
+  position: absolute;
+  top: 13px;
+  left: 12px;
+  border-radius: var(--br-19xl-4);
+  width: 61px;
+  height: 61px;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: absolute;
+  top: 11px;
+  left: 16px;
+  width: 366px;
+  height: 88px;
+}
+.azam,
+.viewDetails1 {
+  position: absolute;
+  left: 89px;
+}
+.azam {
+  top: 9px;
+  font-weight: 500;
+}
+.viewDetails1 {
+  top: 47px;
+  font-size: var(--paragraph-h2-reg-size);
+  color: var(--color-tomato);
+  cursor: pointer;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 305px;
+  left: 16px;
+  width: 366px;
+  height: 88px;
+  font-size: var(--font-size-xl);
+  color: var(--gray-black);
+}
+.attendance,
+.coJvy {
+  position: absolute;
+  top: 59px;
+  left: 89px;
+}
+.coJvy {
+  top: 38px;
+  color: var(--color-gray-400);
+}
+.rectangleContainer {
+  position: absolute;
+  top: 599px;
+  left: 16px;
+  width: 366px;
+  height: 88px;
+}
+.rectangleParent1,
+.rectangleParent2,
+.rectangleParent3 {
+  position: absolute;
+  top: 893px;
+  left: 16px;
+  width: 366px;
+  height: 88px;
+}
+.rectangleParent2,
+.rectangleParent3 {
+  top: 1187px;
+}
+.rectangleParent3 {
+  top: 1481px;
+}
+.rectangleParent4,
+.rectangleParent5,
+.rectangleParent6 {
+  position: absolute;
+  top: 1775px;
+  left: 16px;
+  width: 366px;
+  height: 88px;
+}
+.rectangleParent5,
+.rectangleParent6 {
+  top: 109px;
+  font-size: var(--font-size-xl);
+  color: var(--gray-black);
+}
+.rectangleParent6 {
+  top: 403px;
+}
+.rectangleParent7,
+.rectangleParent8,
+.rectangleParent9 {
+  position: absolute;
+  top: 697px;
+  left: 16px;
+  width: 366px;
+  height: 88px;
+}
+.rectangleParent8,
+.rectangleParent9 {
+  top: 991px;
+}
+.rectangleParent9 {
+  top: 1285px;
+}
+.rectangleParent10,
+.rectangleParent11,
+.rectangleParent12 {
+  position: absolute;
+  top: 1579px;
+  left: 16px;
+  width: 366px;
+  height: 88px;
+}
+.rectangleParent11,
+.rectangleParent12 {
+  top: 1873px;
+}
+.rectangleParent12 {
+  top: 207px;
+  font-size: var(--font-size-xl);
+  color: var(--gray-black);
+}
+.rectangleParent13,
+.rectangleParent14,
+.rectangleParent15 {
+  position: absolute;
+  top: 501px;
+  left: 16px;
+  width: 366px;
+  height: 88px;
+}
+.rectangleParent14,
+.rectangleParent15 {
+  top: 795px;
+}
+.rectangleParent15 {
+  top: 1089px;
+}
+.frameDiv,
+.rectangleParent16,
+.rectangleParent17,
+.rectangleParent18 {
+  position: absolute;
+  top: 1383px;
+  left: 16px;
+  width: 366px;
+  height: 88px;
+}
+.frameDiv,
+.rectangleParent17,
+.rectangleParent18 {
+  top: 1677px;
+}
+.frameDiv,
+.rectangleParent18 {
+  top: 1971px;
+}
+.frameDiv {
+  top: 519px;
+  left: 364px;
+  width: 395px;
+  height: 524px;
+  overflow-y: auto;
+  font-size: var(--paragraph-h2-reg-size);
+  color: var(--color-tomato);
+}
+.instructorsManage {
+  position: relative;
+  background-color: var(--color-ghostwhite-100);
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16.99px;
+  color: var(--color-steelblue);
+  font-family: var(--font-inter);
+}

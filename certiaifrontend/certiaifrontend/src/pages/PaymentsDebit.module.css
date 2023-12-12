@@ -1,0 +1,638 @@
+.iconFeatherSearch,
+.vectorIcon {
+  position: absolute;
+  height: 5.37%;
+  width: 50.87%;
+  top: 4.3%;
+  right: 28.94%;
+  bottom: 90.33%;
+  left: 20.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconFeatherSearch {
+  height: 2.42%;
+  width: 1.56%;
+  top: 5.77%;
+  right: 76.48%;
+  bottom: 91.81%;
+  left: 21.96%;
+}
+.searchDashboard {
+  position: absolute;
+  top: 5.82%;
+  left: 25.12%;
+  font-size: var(--paragraph-h1-reg-size);
+  color: var(--color-lightsteelblue);
+}
+.groupIcon {
+  position: absolute;
+  height: 8.42%;
+  width: 5.44%;
+  top: 3.13%;
+  right: 22.51%;
+  bottom: 88.45%;
+  left: 72.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.pooranMalYadav,
+.seniorAdmin {
+  position: absolute;
+  top: 9.09%;
+  left: 58.02%;
+}
+.seniorAdmin {
+  top: 33.73%;
+  font-weight: 300;
+}
+.clipPathGroup,
+.groupChild {
+  position: absolute;
+  height: 100%;
+  width: 47.33%;
+  top: 0;
+  right: 47.33%;
+  bottom: 0;
+  left: 5.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupChild {
+  height: 56.36%;
+  top: 5.45%;
+  right: 52.67%;
+  bottom: 38.18%;
+  left: 0;
+  object-fit: cover;
+}
+.pooranMalYadavParent {
+  position: absolute;
+  height: 9.85%;
+  width: 7.58%;
+  top: 3.76%;
+  right: 7.06%;
+  bottom: 86.39%;
+  left: 85.36%;
+  font-size: var(--paragraph-h1-reg-size);
+  color: var(--gray-black);
+}
+.frameChild,
+.paymentsDebitChild {
+  position: absolute;
+  height: 5.55%;
+  width: 3.59%;
+  top: 4.3%;
+  right: 16.84%;
+  bottom: 90.15%;
+  left: 79.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameChild {
+  height: 5.19%;
+  width: 87.19%;
+  top: 37.87%;
+  right: 6.25%;
+  bottom: 56.94%;
+  left: 6.56%;
+  border-radius: var(--br-3xs);
+}
+.students,
+.vectorIcon1 {
+  position: absolute;
+  top: 0;
+  left: 35.44%;
+}
+.vectorIcon1 {
+  height: 79.66%;
+  width: 15.19%;
+  top: 3.45%;
+  right: 84.81%;
+  bottom: 16.9%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.testtakers {
+  position: absolute;
+  top: 265px;
+  left: 37px;
+  width: 158px;
+  height: 29px;
+  cursor: pointer;
+}
+.team {
+  position: absolute;
+  top: 0;
+  left: 47.46%;
+}
+.teacherSvgrepoCom1Icon {
+  position: absolute;
+  height: 74.48%;
+  width: 20.34%;
+  top: 10.34%;
+  right: 79.66%;
+  bottom: 15.17%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instructors {
+  position: absolute;
+  top: 322px;
+  left: 37px;
+  width: 118px;
+  height: 29px;
+  cursor: pointer;
+}
+.vectorIcon2 {
+  position: absolute;
+  height: 75.17%;
+  width: 13.11%;
+  top: 17.24%;
+  right: 86.89%;
+  bottom: 7.59%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dashboard {
+  position: absolute;
+  top: 0;
+  left: 30.6%;
+  font-weight: 600;
+}
+.academics,
+.vectorGroup {
+  position: absolute;
+  cursor: pointer;
+}
+.vectorGroup {
+  top: 194px;
+  left: 37px;
+  width: 183px;
+  height: 29px;
+}
+.academics {
+  top: 0;
+  left: 30.94%;
+}
+.iconMetroBooks {
+  position: absolute;
+  height: 85.86%;
+  width: 13.76%;
+  top: 10.34%;
+  right: 86.24%;
+  bottom: 3.79%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.testEnvironment {
+  position: absolute;
+  top: 379px;
+  left: 37px;
+  width: 181px;
+  height: 29px;
+}
+.calendar {
+  position: absolute;
+  top: 0;
+  left: 35.22%;
+  cursor: pointer;
+}
+.groupIcon1 {
+  position: absolute;
+  height: 74.48%;
+  width: 15.09%;
+  top: 13.79%;
+  right: 84.91%;
+  bottom: 11.72%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.payments {
+  position: absolute;
+  top: 437px;
+  left: 37px;
+  width: 159px;
+  height: 29px;
+  color: var(--color-firebrick-200);
+}
+.frameItem {
+  position: absolute;
+  top: 28px;
+  left: 0;
+  width: 326px;
+  height: 77px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.vectorParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--gray-white);
+  width: 320px;
+  height: 1117px;
+  overflow: hidden;
+  font-size: var(--body-h1-bold-size);
+  color: var(--gray-black);
+}
+.paymentsDebitItem {
+  position: absolute;
+  height: 0.09%;
+  width: 78.01%;
+  top: 17.59%;
+  right: 2.58%;
+  bottom: 82.32%;
+  left: 19.42%;
+  border-top: 1px solid var(--color-gainsboro-400);
+  box-sizing: border-box;
+}
+.reports {
+  position: absolute;
+  top: 14.68%;
+  left: 22.86%;
+  font-size: var(--paragraph-h2-reg-size);
+  color: var(--color-gray-200);
+  cursor: pointer;
+}
+.debit,
+.debit1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.debit {
+  top: 164px;
+  left: 703px;
+  width: 41px;
+  height: 19px;
+  font-size: var(--paragraph-h2-reg-size);
+  color: var(--color-firebrick-1000);
+}
+.paymentsDebitInner {
+  position: absolute;
+  height: 0.18%;
+  width: 7.93%;
+  top: 17.46%;
+  right: 53.88%;
+  bottom: 82.36%;
+  left: 38.19%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.from,
+.to {
+  position: absolute;
+  top: 238px;
+  left: 355px;
+  font-size: var(--paragraph-h2-reg-size);
+  font-weight: 500;
+}
+.to {
+  left: 570px;
+}
+.paymentsDebitChild1,
+.rectangleDiv {
+  position: absolute;
+  top: 229px;
+  left: 405px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-ghostwhite-200);
+  width: 149px;
+  height: 37px;
+}
+.paymentsDebitChild1 {
+  left: 602px;
+}
+.div,
+.div1 {
+  position: absolute;
+  top: 238px;
+  left: 446px;
+  font-size: var(--paragraph-h2-reg-size);
+  color: var(--color-darkslategray-400);
+}
+.div1 {
+  left: 643px;
+}
+.uiscalenderIcon,
+.uiscalenderIcon1 {
+  position: absolute;
+  top: 237px;
+  left: 415px;
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+}
+.uiscalenderIcon1 {
+  left: 612px;
+}
+.transactions {
+  position: absolute;
+  top: 164px;
+  left: 542px;
+  width: 97px;
+  height: 19px;
+  cursor: pointer;
+  font-size: var(--paragraph-h2-reg-size);
+  color: var(--color-gray-400);
+}
+.amount,
+.date,
+.name,
+.phoneNo,
+.sno,
+.status {
+  position: absolute;
+  top: 294px;
+  left: 363px;
+  line-height: 20px;
+  color: var(--color-darkslategray-400);
+}
+.amount,
+.date,
+.name,
+.phoneNo,
+.status {
+  left: 464px;
+}
+.amount,
+.date,
+.phoneNo,
+.status {
+  left: 912px;
+}
+.amount,
+.date,
+.status {
+  left: 696px;
+}
+.date,
+.status {
+  left: 1116px;
+}
+.date {
+  left: 1275px;
+}
+.staffChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--gray-white);
+  width: 1340px;
+  height: 86px;
+}
+.div2,
+.harshKadyan {
+  position: absolute;
+  top: 33px;
+  left: 22px;
+  line-height: 20px;
+}
+.harshKadyan {
+  left: 123px;
+}
+.div3 {
+  left: 571px;
+  font-size: var(--paragraph-h2-reg-size);
+  color: var(--color-darkslategray-200);
+}
+.apr2023,
+.div3,
+.div4,
+.paid {
+  position: absolute;
+  top: 33px;
+}
+.div4 {
+  left: 355px;
+  font-size: var(--paragraph-h2-reg-size);
+  font-weight: 500;
+}
+.apr2023,
+.paid {
+  line-height: 20px;
+}
+.paid {
+  left: 775px;
+  color: var(--color-lightseagreen-100);
+}
+.apr2023 {
+  left: 934px;
+}
+.staff,
+.staff1,
+.staff2,
+.staff3,
+.staff4,
+.staff5,
+.staff6 {
+  position: absolute;
+  top: 10px;
+  left: 6px;
+  width: 1340px;
+  height: 86px;
+}
+.staff1,
+.staff2,
+.staff3,
+.staff4,
+.staff5,
+.staff6 {
+  top: 116px;
+}
+.staff2,
+.staff3,
+.staff4,
+.staff5,
+.staff6 {
+  top: 222px;
+}
+.staff3,
+.staff4,
+.staff5,
+.staff6 {
+  top: 328px;
+}
+.staff4,
+.staff5,
+.staff6 {
+  top: 434px;
+}
+.staff5,
+.staff6 {
+  top: 540px;
+}
+.staff6 {
+  top: 646px;
+}
+.viewLeaveDetailsChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lavender-100);
+}
+.solareyeLinearIcon {
+  position: absolute;
+  height: 66.67%;
+  width: 13.87%;
+  top: 16.67%;
+  right: 81.5%;
+  bottom: 16.67%;
+  left: 4.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.viewDetails {
+  position: absolute;
+  top: 16.67%;
+  left: 27.17%;
+}
+.viewLeaveDetails {
+  position: absolute;
+  top: 25px;
+  left: 1118px;
+  width: 173px;
+  height: 36px;
+  color: var(--color-blueviolet);
+}
+.staff7,
+.staff8,
+.staff9,
+.staffParent {
+  position: absolute;
+  top: 752px;
+  left: 6px;
+  width: 1340px;
+  height: 86px;
+}
+.staff8,
+.staff9,
+.staffParent {
+  top: 858px;
+}
+.staff9,
+.staffParent {
+  top: 964px;
+}
+.staffParent {
+  top: 325px;
+  left: 336px;
+  width: 1353px;
+  height: 721px;
+  overflow-y: auto;
+  color: var(--color-darkslategray-400);
+}
+.transactionId {
+  position: absolute;
+  top: 294px;
+  left: 1453px;
+  font-weight: 600;
+  display: inline-block;
+  width: 230px;
+  height: 26px;
+}
+.div32,
+.div33,
+.div34,
+.div35,
+.div36,
+.div37,
+.div38 {
+  position: absolute;
+  top: 370px;
+  left: 1456px;
+  display: inline-block;
+  width: 194px;
+  height: 26px;
+}
+.div33,
+.div34,
+.div35,
+.div36,
+.div37,
+.div38 {
+  top: 475px;
+  height: 25px;
+}
+.div34,
+.div35,
+.div36,
+.div37,
+.div38 {
+  top: 580px;
+}
+.div35,
+.div36,
+.div37,
+.div38 {
+  top: 684px;
+  height: 26px;
+}
+.div36,
+.div37,
+.div38 {
+  top: 788px;
+}
+.div37,
+.div38 {
+  top: 893px;
+}
+.div38 {
+  top: 998px;
+}
+.exportData {
+  position: absolute;
+  top: 3px;
+  left: 34px;
+}
+.icoutlineFileUploadIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.exportDataParent {
+  position: absolute;
+  top: 152px;
+  left: 1539px;
+  width: 124px;
+  height: 24px;
+  font-size: var(--paragraph-h2-reg-size);
+  color: var(--gray-white);
+}
+.paymentsDebit {
+  position: relative;
+  background-color: var(--color-ghostwhite-100);
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-inter);
+}
