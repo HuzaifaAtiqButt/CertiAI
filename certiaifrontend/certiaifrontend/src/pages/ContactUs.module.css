@@ -1,0 +1,218 @@
+.contactUsChild {
+  position: absolute;
+  top: 273px;
+  left: 1234px;
+  background-color: var(--color-pink-200);
+  width: 377px;
+  height: 377px;
+}
+.contactUsChild,
+.contactUsItem,
+.frameChild {
+  border-radius: 50%;
+  filter: blur(300px);
+}
+.contactUsItem {
+  position: absolute;
+  top: 435px;
+  left: 809px;
+  background-color: var(--color-salmon);
+  width: 558px;
+  height: 558px;
+}
+.frameChild {
+  position: relative;
+  background-color: var(--color-pink-300);
+  width: 509px;
+  height: 475px;
+}
+.contactUsInner {
+  position: absolute;
+  top: 120px;
+  left: 68px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+}
+.ellipseDiv {
+  position: absolute;
+  top: 511px;
+  left: 280px;
+  border-radius: 50%;
+  background-color: var(--color-lightpink);
+  filter: blur(300px);
+  width: 509px;
+  height: 475px;
+}
+.contactUsChild1,
+.rectangleIcon {
+  position: absolute;
+  top: 104px;
+  left: 869px;
+  width: 873px;
+  height: 1195px;
+  object-fit: cover;
+}
+.contactUsChild1 {
+  top: 288px;
+  left: 0;
+  width: 67.8px;
+  height: 67.8px;
+  cursor: pointer;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 310.9px;
+  left: 1525.9px;
+  width: 50px;
+  height: 50px;
+  transform: rotate(36.85deg);
+  transform-origin: 0 0;
+}
+.contactUs1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-decoration: underline;
+}
+.haveAQuestion {
+  font-family: var(--font-myanmar-khyay);
+}
+.haveAQuestionOrWantToLea {
+  margin: 0;
+}
+.address {
+  font-family: var(--font-archivo-black);
+}
+.contactcertiaicom1 {
+  text-decoration: underline;
+}
+.contactcertiaicom {
+  color: inherit;
+}
+.haveAQuestionContainer {
+  position: absolute;
+  top: 125px;
+  left: 28px;
+  font-size: var(--font-size-6xl);
+  color: inherit;
+  display: inline-block;
+  width: 895px;
+  height: 569px;
+  font-family: var(--font-myanmar-khyay);
+}
+.aboutMe {
+  position: absolute;
+  top: 173px;
+  left: 78px;
+  width: 923px;
+  height: 694px;
+  font-size: var(--font-size-51xl);
+}
+.contactUsChild2 {
+  position: absolute;
+  top: 25px;
+  left: -21px;
+  width: 353px;
+  height: 77px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-firebrick-700);
+  width: 215px;
+  height: 63px;
+}
+.loginregister {
+  position: absolute;
+  top: 17px;
+  left: 29px;
+  font-weight: 600;
+  display: inline-block;
+  width: 183px;
+  height: 48px;
+  cursor: pointer;
+}
+.home,
+.rectangleParent {
+  position: absolute;
+  top: 37px;
+  left: 1423px;
+  width: 215px;
+  height: 65px;
+  color: var(--color-gray-100);
+}
+.home {
+  top: 0;
+  left: 4px;
+  font-weight: 600;
+  color: var(--color-firebrick-700);
+  display: inline-block;
+  width: 75px;
+  height: 48px;
+  cursor: pointer;
+}
+.groupItem {
+  position: absolute;
+  top: 29.6px;
+  left: -1px;
+  border-top: 2px solid var(--color-firebrick-500);
+  box-sizing: border-box;
+  width: 70.9px;
+  height: 2px;
+}
+.about,
+.admin,
+.contactUs2,
+.tests {
+  position: absolute;
+  top: 2px;
+  left: 141px;
+  font-weight: 600;
+  display: inline-block;
+  width: 69px;
+  height: 46px;
+  cursor: pointer;
+}
+.admin,
+.contactUs2,
+.tests {
+  top: 0;
+  left: 282px;
+  width: 67px;
+  height: 50px;
+}
+.admin,
+.contactUs2 {
+  left: 413px;
+  width: 119px;
+  height: 48px;
+}
+.admin {
+  left: 576px;
+  width: 183px;
+}
+.homeParent {
+  position: absolute;
+  top: 52px;
+  left: 485px;
+  width: 759px;
+  height: 50px;
+  color: var(--color-gray-700);
+}
+.contactUs {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 1117px;
+  text-align: left;
+  font-size: var(--body-h2-bold-size);
+  color: var(--gray-black);
+  font-family: var(--font-inter);
+}
