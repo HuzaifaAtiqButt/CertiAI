@@ -1,0 +1,865 @@
+.groupIcon,
+.iconFeatherSearch,
+.vectorIcon {
+  position: absolute;
+  height: 5.73%;
+  width: 17.94%;
+  top: 11.64%;
+  right: 61.63%;
+  bottom: 82.63%;
+  left: 20.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconFeatherSearch,
+.vectorIcon {
+  height: 5.37%;
+  width: 50.87%;
+  top: 4.3%;
+  right: 28.94%;
+  bottom: 90.33%;
+  left: 20.2%;
+}
+.iconFeatherSearch {
+  height: 2.42%;
+  width: 1.56%;
+  top: 5.77%;
+  right: 76.48%;
+  bottom: 91.81%;
+  left: 21.96%;
+}
+.searchDashboard {
+  position: absolute;
+  top: 5.82%;
+  left: 25.12%;
+  font-size: var(--paragraph-h1-reg-size);
+  color: var(--color-lightsteelblue);
+}
+.groupIcon1,
+.instructorsYourPaymentsChild {
+  position: absolute;
+  height: 8.42%;
+  width: 5.44%;
+  top: 3.13%;
+  right: 22.51%;
+  bottom: 88.45%;
+  left: 72.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instructorsYourPaymentsChild {
+  height: 5.55%;
+  width: 3.59%;
+  top: 4.3%;
+  right: 16.84%;
+  bottom: 90.15%;
+  left: 79.57%;
+}
+.instructorsYourPaymentsItem {
+  position: absolute;
+  top: 223px;
+  left: 357px;
+  width: 1268px;
+  height: 515px;
+}
+.addDefaultersChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-firebrick-400);
+}
+.icon {
+  position: absolute;
+  height: 40%;
+  width: 40%;
+  top: 30%;
+  right: 30%;
+  bottom: 30%;
+  left: 30%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.addDefaulters {
+  position: absolute;
+  top: 415px;
+  left: 695px;
+  width: 40px;
+  height: 40px;
+  display: none;
+  cursor: pointer;
+}
+.instructorsYourPaymentsInner {
+  position: absolute;
+  top: 1008px;
+  left: 822px;
+  border-radius: var(--br-3xs);
+  background-color: var(--gray-white);
+  width: 100px;
+  height: 5px;
+  display: none;
+}
+.addDefaultersItem {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-firebrick-400);
+  height: 0;
+}
+.icon1 {
+  position: absolute;
+  width: 40%;
+  right: 30%;
+  left: 30%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 0;
+}
+.addDefaulters1,
+.complaints {
+  position: absolute;
+  display: none;
+}
+.addDefaulters1 {
+  top: 1008px;
+  left: 907px;
+  width: 10px;
+  height: 0;
+  cursor: pointer;
+}
+.complaints {
+  width: 3.07%;
+  top: 90.24%;
+  left: 47.86%;
+  font-size: var(--font-size-3xl-8);
+  font-weight: 600;
+  color: var(--color-dimgray-300);
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--gray-white);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 366px;
+  height: 88px;
+}
+.alex,
+.viewDetails {
+  position: absolute;
+  top: 47px;
+  left: 89px;
+}
+.alex {
+  top: 9px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--gray-black);
+}
+.rectangleIcon {
+  position: absolute;
+  top: 13px;
+  left: 12px;
+  border-radius: var(--br-19xl-4);
+  width: 61px;
+  height: 61px;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: absolute;
+  top: 11px;
+  left: 16px;
+  width: 366px;
+  height: 88px;
+}
+.azam {
+  position: absolute;
+  top: 9px;
+  left: 89px;
+  font-weight: 500;
+}
+.rectangleGroup,
+.viewDetails1 {
+  position: absolute;
+  top: 52px;
+  left: 89px;
+  font-size: var(--paragraph-h2-reg-size);
+  color: var(--color-tomato);
+}
+.rectangleGroup {
+  top: 305px;
+  left: 16px;
+  width: 366px;
+  height: 88px;
+  font-size: var(--font-size-xl);
+  color: var(--gray-black);
+}
+.attendance,
+.coJvy {
+  position: absolute;
+  top: 59px;
+  left: 89px;
+}
+.coJvy {
+  top: 38px;
+  color: var(--color-gray-400);
+}
+.groupDiv,
+.rectangleContainer,
+.rectangleParent1,
+.rectangleParent2 {
+  position: absolute;
+  top: 599px;
+  left: 16px;
+  width: 366px;
+  height: 88px;
+}
+.groupDiv,
+.rectangleParent1,
+.rectangleParent2 {
+  top: 893px;
+}
+.rectangleParent1,
+.rectangleParent2 {
+  top: 1187px;
+}
+.rectangleParent2 {
+  top: 1481px;
+}
+.rectangleParent3,
+.rectangleParent4,
+.rectangleParent5 {
+  position: absolute;
+  top: 1775px;
+  left: 16px;
+  width: 366px;
+  height: 88px;
+}
+.rectangleParent4,
+.rectangleParent5 {
+  top: 109px;
+  font-size: var(--font-size-xl);
+  color: var(--gray-black);
+}
+.rectangleParent5 {
+  top: 403px;
+}
+.rectangleParent6,
+.rectangleParent7,
+.rectangleParent8 {
+  position: absolute;
+  top: 697px;
+  left: 16px;
+  width: 366px;
+  height: 88px;
+}
+.rectangleParent7,
+.rectangleParent8 {
+  top: 991px;
+}
+.rectangleParent8 {
+  top: 1285px;
+}
+.rectangleParent10,
+.rectangleParent11,
+.rectangleParent9 {
+  position: absolute;
+  top: 1579px;
+  left: 16px;
+  width: 366px;
+  height: 88px;
+}
+.rectangleParent10,
+.rectangleParent11 {
+  top: 1873px;
+}
+.rectangleParent11 {
+  top: 207px;
+  font-size: var(--font-size-xl);
+  color: var(--gray-black);
+}
+.rectangleParent12,
+.rectangleParent13,
+.rectangleParent14 {
+  position: absolute;
+  top: 501px;
+  left: 16px;
+  width: 366px;
+  height: 88px;
+}
+.rectangleParent13,
+.rectangleParent14 {
+  top: 795px;
+}
+.rectangleParent14 {
+  top: 1089px;
+}
+.groupParent,
+.rectangleParent15,
+.rectangleParent16,
+.rectangleParent17 {
+  position: absolute;
+  top: 1383px;
+  left: 16px;
+  width: 366px;
+  height: 88px;
+}
+.groupParent,
+.rectangleParent16,
+.rectangleParent17 {
+  top: 1677px;
+}
+.groupParent,
+.rectangleParent17 {
+  top: 1971px;
+}
+.groupParent {
+  top: 460px;
+  left: 822px;
+  width: 385px;
+  height: 539px;
+  overflow-y: auto;
+  display: none;
+  font-size: var(--paragraph-h2-reg-size);
+  color: var(--color-tomato);
+}
+.instructorsYourPaymentsChild1 {
+  position: absolute;
+  height: 9.85%;
+  width: 3.59%;
+  top: 3.22%;
+  right: 9.66%;
+  bottom: 86.93%;
+  left: 86.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.raj {
+  margin: 0;
+}
+.rajAnadkat {
+  position: absolute;
+  top: 46px;
+  left: 1565px;
+  font-size: var(--paragraph-h1-reg-size);
+  font-weight: 300;
+  color: var(--color-darkslategray-400);
+}
+.paymentDetails {
+  position: absolute;
+  top: 148px;
+  left: 385px;
+  font-size: var(--body-h1-bold-size);
+  letter-spacing: 0.02em;
+  line-height: 27px;
+  display: flex;
+  font-family: var(--h4-reg);
+  color: var(--gray-white);
+  align-items: center;
+  width: 240px;
+}
+.instructorsYourPaymentsChild2 {
+  position: absolute;
+  height: 5.55%;
+  width: 3.59%;
+  top: 3.85%;
+  right: 10.07%;
+  bottom: 90.6%;
+  left: 86.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.latestUpdates {
+  position: absolute;
+  top: 237px;
+  left: 368px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  font-family: var(--font-montserrat);
+  width: 251px;
+  height: 78px;
+}
+.name {
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 102px;
+}
+.name,
+.paymentId,
+.testName {
+  position: absolute;
+  top: 0.1px;
+  height: 43px;
+}
+.testName {
+  left: 125px;
+  font-weight: 600;
+  display: inline-block;
+  width: 137px;
+}
+.paymentId {
+  left: 279px;
+  width: 141px;
+}
+.amountReceieved,
+.paymentId,
+.status {
+  font-weight: 600;
+  display: inline-block;
+}
+.amountReceieved {
+  position: absolute;
+  top: 0.1px;
+  left: 445px;
+  width: 127px;
+  height: 43px;
+}
+.status {
+  top: 0;
+  left: 600.2px;
+  width: 89.5px;
+  height: 43.1px;
+}
+.date,
+.status,
+.thead {
+  position: absolute;
+}
+.date {
+  top: 0.1px;
+  left: 755px;
+  font-weight: 600;
+  display: inline-block;
+  width: 58px;
+  height: 43px;
+}
+.thead {
+  top: 331.9px;
+  left: 379px;
+  width: 813px;
+  height: 43.1px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-montserrat);
+}
+.eye1Icon,
+.thChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 965px;
+  height: 73.3px;
+}
+.eye1Icon {
+  top: 25.9px;
+  left: 930.2px;
+  width: 13px;
+  height: 20.1px;
+  overflow: hidden;
+}
+.dec2021,
+.div,
+.div1,
+.mrInstructor,
+.ocja,
+.transferred {
+  position: absolute;
+  top: 24.3px;
+  left: 11px;
+  display: inline-block;
+  width: 102px;
+  height: 49px;
+}
+.dec2021,
+.div,
+.div1,
+.ocja,
+.transferred {
+  left: 164px;
+  width: 47px;
+}
+.dec2021,
+.div,
+.div1,
+.transferred {
+  left: 314px;
+  width: 69px;
+}
+.dec2021,
+.div1,
+.transferred {
+  left: 496px;
+  width: 66.1px;
+  height: 48.9px;
+}
+.dec2021,
+.transferred {
+  left: 611px;
+  width: 90px;
+  height: 49px;
+}
+.dec2021 {
+  top: 24.4px;
+  left: 765.9px;
+  width: 77.4px;
+  height: 48.9px;
+}
+.th,
+.thItem {
+  position: absolute;
+  width: 965px;
+  height: 73.3px;
+}
+.th {
+  top: 380.8px;
+  left: 368px;
+  font-family: var(--font-montserrat);
+}
+.thItem {
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke-100);
+}
+.mrInstructor1,
+.ocp {
+  top: 23.9px;
+  display: inline-block;
+  height: 49px;
+}
+.mrInstructor1 {
+  position: absolute;
+  left: 11px;
+  width: 102px;
+}
+.ocp {
+  left: 166px;
+  width: 47px;
+}
+.div2,
+.eye2Icon,
+.ocp {
+  position: absolute;
+}
+.div2 {
+  top: 24.9px;
+  left: 314px;
+  display: inline-block;
+  width: 69px;
+  height: 48px;
+}
+.eye2Icon {
+  top: 27.3px;
+  left: 932px;
+  width: 13px;
+  height: 20.1px;
+  overflow: hidden;
+}
+.inProcess {
+  position: absolute;
+  top: 24.9px;
+  left: 611px;
+  display: inline-block;
+  width: 90px;
+  height: 48px;
+}
+.th1,
+.thInner {
+  position: absolute;
+  width: 965px;
+  height: 73.3px;
+}
+.th1 {
+  top: 454.1px;
+  left: 368px;
+  font-family: var(--font-montserrat);
+}
+.thInner {
+  top: 0;
+  left: 0;
+  background-color: var(--gray-white);
+}
+.eye3Icon {
+  position: absolute;
+  top: 28.8px;
+  left: 930.2px;
+  width: 13px;
+  height: 20.1px;
+  overflow: hidden;
+}
+.mrInstructor2 {
+  position: absolute;
+  top: 24.6px;
+  left: 11px;
+  display: inline-block;
+  width: 102px;
+  height: 49px;
+}
+.oca {
+  position: absolute;
+  left: 166px;
+  width: 47px;
+}
+.div4,
+.inProcess1,
+.oca {
+  top: 24.6px;
+  display: inline-block;
+  height: 49px;
+}
+.div4 {
+  position: absolute;
+  left: 314px;
+  width: 69px;
+}
+.inProcess1 {
+  left: 611px;
+  width: 90px;
+}
+.eye4Icon,
+.inProcess1,
+.th2 {
+  position: absolute;
+}
+.th2 {
+  top: 527.4px;
+  left: 368px;
+  width: 965px;
+  height: 73.6px;
+  font-family: var(--font-montserrat);
+}
+.eye4Icon {
+  top: 24.4px;
+  left: 928.5px;
+  width: 13px;
+  height: 20.1px;
+  overflow: hidden;
+}
+.mrInstructor3,
+.ocpjp {
+  position: absolute;
+  top: 24.3px;
+  left: 11px;
+  display: inline-block;
+  width: 95px;
+  height: 49px;
+}
+.ocpjp {
+  left: 164px;
+  width: 66px;
+}
+.transferred1,
+.transferred2 {
+  top: 24.3px;
+  width: 90px;
+  height: 49px;
+}
+.transferred1 {
+  position: absolute;
+  left: 608px;
+  display: inline-block;
+}
+.transferred2 {
+  left: 611px;
+  display: none;
+}
+.lineDiv,
+.th3,
+.transferred2 {
+  position: absolute;
+}
+.th3 {
+  top: 600.7px;
+  left: 368px;
+  width: 965px;
+  height: 73.3px;
+  font-family: var(--font-montserrat);
+}
+.lineDiv {
+  top: 305.5px;
+  left: 367.5px;
+  border-top: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  width: 966px;
+  height: 1px;
+}
+.frameChild {
+  position: absolute;
+  height: 5.19%;
+  width: 87.19%;
+  top: 32.14%;
+  right: 8.13%;
+  bottom: 62.67%;
+  left: 4.69%;
+  border-radius: var(--br-3xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.team {
+  position: absolute;
+  top: 0;
+  left: 47.46%;
+}
+.teacherSvgrepoCom1Icon {
+  position: absolute;
+  height: 74.48%;
+  width: 20.34%;
+  top: 10.34%;
+  right: 79.66%;
+  bottom: 15.17%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.uploadTests {
+  position: absolute;
+  top: 260px;
+  left: 37px;
+  width: 118px;
+  height: 29px;
+  cursor: pointer;
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 75.17%;
+  width: 13.11%;
+  top: 17.24%;
+  right: 86.89%;
+  bottom: 7.59%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dashboard {
+  position: absolute;
+  top: 0;
+  left: 30.6%;
+  font-weight: 600;
+}
+.academics,
+.vectorGroup {
+  position: absolute;
+  cursor: pointer;
+}
+.vectorGroup {
+  top: 194px;
+  left: 37px;
+  width: 183px;
+  height: 29px;
+}
+.academics {
+  top: 0;
+  left: 30.94%;
+}
+.iconMetroBooks {
+  position: absolute;
+  height: 85.86%;
+  width: 13.76%;
+  top: 10.34%;
+  right: 86.24%;
+  bottom: 3.79%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.manageTests {
+  position: absolute;
+  top: 317px;
+  left: 37px;
+  width: 181px;
+  height: 29px;
+}
+.instructorProfile1 {
+  color: var(--gray-black);
+}
+.frameItem,
+.instructorProfile {
+  position: absolute;
+  cursor: pointer;
+}
+.instructorProfile {
+  top: 430px;
+  left: 37px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  color: var(--color-gray-600);
+}
+.frameItem {
+  top: 28px;
+  left: 0;
+  width: 326px;
+  height: 77px;
+  object-fit: cover;
+}
+.vectorParent {
+  position: relative;
+  background-color: var(--gray-white);
+  width: 320px;
+  height: 1117px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frameDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--body-h1-bold-size);
+}
+.yourPayments {
+  position: absolute;
+  top: 0;
+  left: 35.22%;
+  cursor: pointer;
+}
+.groupIcon2 {
+  position: absolute;
+  height: 74.48%;
+  width: 15.09%;
+  top: 13.79%;
+  right: 84.91%;
+  bottom: 11.72%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.payments {
+  position: absolute;
+  top: 375px;
+  left: 37px;
+  width: 159px;
+  height: 29px;
+  font-size: var(--body-h1-bold-size);
+  color: var(--color-firebrick-700);
+}
+.instructorsYourPayments {
+  position: relative;
+  background-color: var(--color-ghostwhite-100);
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--gray-black);
+  font-family: var(--font-inter);
+}
