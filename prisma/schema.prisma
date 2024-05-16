@@ -1,0 +1,92 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+ url       = env("DATABASE_URL")
+ directUrl = env("DIRECT_DATABASE_URL")
+}
+
+model User {
+  id       String   @id @default(uuid())
+  email    String   @unique
+  name     String?
+  role     String? 
+  mobile   String?
+  joinedAt DateTime @default(now())
+  profileImage String?
+  location String?
+  test    Test[]
+  payment Payment[]
+   testResults TestResult[]
+}
+model Test {
+  id          Int        @id @default(autoincrement())
+  title       String
+  description String?
+  duration    Int
+  price       Int
+  userId     String
+  startAt    DateTime
+  published  Boolean    @default(false)
+
+  user User @relation(fields: [userId], references: [id])
+  questions   Question[]
+  payment     Payment[]
+  testResult TestResult[]
+
+}
+
+model Question {
+  id      Int    @id @default(autoincrement())
+  question String
+  options  String[]
+  type     String?
+  answer   Int?
+  testId   Int
+  test     Test   @relation(fields: [testId], references: [id])
+}
+
+// 
+model Payment {
+  id         Int      @id @default(autoincrement())
+  userId     String
+  testId     Int
+  amount     Float
+  status     String   // e.g., "pending", "completed", "failed"
+  createdAt  DateTime @default(now())
+  user       User     @relation(fields: [userId], references: [id])
+  test       Test     @relation(fields: [testId], references: [id])
+}
+
+model TestResult {
+  id         Int       @id @default(autoincrement())
+  userId     String
+  testId     Int
+  totalScore String
+  gotScore   String
+  createdAt  DateTime  @default(now())
+  user       User      @relation(fields: [userId], references: [id])
+  test       Test      @relation(fields: [testId], references: [id])
+  questions  QuestionResult[]
+}
+
+model QuestionResult {
+  id         Int      @id @default(autoincrement())
+  question String
+  userAnswer String
+  correctAnswer String
+  options  String[]
+  type String
+  score String
+  description String
+  testResultId Int
+  testResult TestResult @relation(fields: [testResultId], references: [id])
+}
